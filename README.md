@@ -48,10 +48,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   </p>
   
-  <br/>
-  <h3>📌 Github log</h3>
+<!--   <br/>
+  <div>
+    <h3>📌 Github log</h3>
   
   ![ramram222's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramram222&show_icons=true&theme=flag-india)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramram222&layout=compact&theme=flag-india)
+    
+  </div> -->
 
 </div>
 
